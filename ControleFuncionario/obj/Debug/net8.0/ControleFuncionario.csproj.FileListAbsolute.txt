@@ -1,0 +1,14 @@
+C:\CSharp\ControleFuncionario\ControleFuncionario\bin\Debug\net8.0\ControleFuncionario.exe
+C:\CSharp\ControleFuncionario\ControleFuncionario\bin\Debug\net8.0\ControleFuncionario.deps.json
+C:\CSharp\ControleFuncionario\ControleFuncionario\bin\Debug\net8.0\ControleFuncionario.runtimeconfig.json
+C:\CSharp\ControleFuncionario\ControleFuncionario\bin\Debug\net8.0\ControleFuncionario.dll
+C:\CSharp\ControleFuncionario\ControleFuncionario\bin\Debug\net8.0\ControleFuncionario.pdb
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.AssemblyInfoInputs.cache
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.AssemblyInfo.cs
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.csproj.CoreCompileInputs.cache
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.dll
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\refint\ControleFuncionario.dll
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.pdb
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ControleFuncionario.genruntimeconfig.cache
+C:\CSharp\ControleFuncionario\ControleFuncionario\obj\Debug\net8.0\ref\ControleFuncionario.dll

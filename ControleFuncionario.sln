@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionario", "ControleFuncionario\ControleFuncionario.csproj", "{56740D12-93AE-475A-907F-161429A17772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56740D12-93AE-475A-907F-161429A17772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56740D12-93AE-475A-907F-161429A17772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56740D12-93AE-475A-907F-161429A17772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56740D12-93AE-475A-907F-161429A17772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9566AB1F-279D-4366-A7A3-9C8C7B761987}
+	EndGlobalSection
+EndGlobal
